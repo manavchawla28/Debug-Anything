@@ -1,7 +1,7 @@
 import openai
 import gradio as gr
 
-openai_api_key = "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"
+openai_api_key = "ADD OPEN AI API KEY HERE"
 
 def run(input1, input2):
     openai.api_key = openai_api_key
